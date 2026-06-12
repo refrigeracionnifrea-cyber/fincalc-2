@@ -1,0 +1,5 @@
+# Dependencies
+node_modules/
+
+# Build outputs (keep dist/ for deployment)
+# We want to include dist/ so it's deployed with the site
